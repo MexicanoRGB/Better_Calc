@@ -1,6 +1,5 @@
 # calculadora com tkinter
 # execute com python better_calc.py
-# execute o comando cd C:\Users\MIGUEL\Desktop\pra aprender py
 
 import tkinter as tk
 from math import sqrt, log, sin, radians
